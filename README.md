@@ -1,2 +1,2 @@
 # rename_Image
-This code helps to rename multiple image in numeric sequential order. 
+This code helps to rename multiple images in numeric sequential order. 
